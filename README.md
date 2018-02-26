@@ -2,13 +2,12 @@
 
 Tajam Website adalah aplikasi website untuk
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/NimasAyu22/TAJAM_WEBSITE/blob/master/tjm.jpg)
 
 ## Built With
 
-* [Font Awesome](https://fontawesome.com/) - Font Awesome
+
 * [Bootstrap](https://getbootstrap.com/docs/3.3/) - Boostrap 3
-* [Boostrap 3 Datepicker](https://eonasdan.github.io/bootstrap-datetimepicker/) - Boostrap 3 Datepicker
 * [Chosen](https://harvesthq.github.io/chosen/) - jQuery Chosen
 
 ## Authors
